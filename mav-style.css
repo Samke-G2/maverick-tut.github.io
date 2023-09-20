@@ -1,0 +1,99 @@
+/* hex codes for the colors: 
+    green1: #006400 
+    green2 (better option: #033500
+    goldish-yellow: #ffcc00
+    the-red: #8B0000: 
+ */ 
+
+body {
+    background-color: #033500;
+}
+header {
+    background-color: #ffcc00;
+    height: 250px;
+    border-radius: 100px;
+}
+footer {
+    background-color: #006400;
+}
+.content-a {
+    background-color: #8b0000; 
+    width: 45%;
+    height: 500px;
+    border-radius:100px;
+    text-align: center;
+    display: block;
+    padding:10px;
+    margin: 10px;
+    float: left;
+}
+.content-b {
+    background-color: #8b0000; 
+    width: 45%;
+    height: 500px;
+    border-radius:100px;
+    text-align: center;
+    display: inline-block;
+    padding: 10px;
+    margin: 10px;
+}
+.nav {
+    display: inline-block;
+}
+.navi-b {
+    color: #ffcc00;
+    display: inline-block;
+    background-color: #8b0000; 
+    height: 40px;
+    width: 102px;
+    border-radius: 20px;
+    margin: 40px;
+}
+h1 {
+    display: inline-block;
+}
+#logo {
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+    margin: 25px 25px 0px 25px;
+    float: left;
+}
+#title {
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 60px;
+    margin: 90px  10px 75px 0;
+}
+.intro {
+    font-family: sans-serif;
+    text-align: center;
+    font-weight: bold;
+    font-size: 23px;
+    color: #f0f0f0;
+    text-decoration: underline;
+}
+.descr {
+    font-size: 45px;
+    text-align: center;
+    color: #f0f0f0;
+}
+.list {
+    text-align: left;
+    color: #f0f0f0;
+}
+.images {
+    height: 300px;
+    width: 300px;
+    border-radius: 50px;
+    margin: 50px;
+}
+.subjects {
+    color: #ffcc00;
+}
+.head2 {
+    text-decoration: underline;
+}
+.operating-hrs {
+    font-weight: bold;
+}
