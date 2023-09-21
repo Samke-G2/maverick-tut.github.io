@@ -1,7 +1,7 @@
 /* hex codes for the colors: 
     green1: #006400 
-    green2 (better option: #033500
-    goldish-yellow: #ffcc00
+    green2 (darker option: #033500
+    darker-yellow: #ffcc00
     the-red: #8B0000: 
  */ 
 
@@ -96,4 +96,10 @@ h1 {
 }
 .operating-hrs {
     font-weight: bold;
+}
+.f-links {
+    height: 50px;
+    width: 50px;
+    border-radius: 25px;
+    margin: 0 135px 0 135px;
 }
